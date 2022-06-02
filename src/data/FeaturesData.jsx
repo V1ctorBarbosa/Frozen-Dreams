@@ -1,5 +1,4 @@
 import React from 'react';
-
 import { IoMdIceCream } from "react-icons/io";
 import { MdWash, MdDeliveryDining } from "react-icons/md";
 import { BiSupport, BiDollar, BiCool } from 'react-icons/bi';
