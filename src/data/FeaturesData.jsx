@@ -1,6 +1,6 @@
 import React from 'react';
 import { IoMdIceCream } from "react-icons/io";
-import { MdWash, MdDeliveryDining } from "react-icons/md";
+import { MdCloudQueue, MdDirectionsBike } from "react-icons/md";
 import { BiSupport, BiDollar, BiCool } from 'react-icons/bi';
 
 const iconStyle = (Icon) => <Icon size="3rem" color="#E91601" />;
@@ -15,7 +15,7 @@ export const featuresData = [
 	{
 		name: 'Clean Environment',
 		description: 'Kitchen and lounge cleaned daily',
-		icon: iconStyle(MdWash),
+		icon: iconStyle(MdCloudQueue),
 		imgClass: 'two',
 	},
 	{
@@ -33,7 +33,7 @@ export const featuresData = [
 	{
 		name: 'Delivery',
 		description: 'The fastest delivery in town',
-		icon: iconStyle(MdDeliveryDining),
+		icon: iconStyle(MdDirectionsBike),
 		imgClass: 'five',
 	},
 	{
