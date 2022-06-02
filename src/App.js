@@ -10,7 +10,7 @@ import Footer from './components/Footer/Footer';
 
 function App() {
 	return (
-		<Router>
+		<Router basename={process.env.PUBLIC_URL}>
 			<GlobalStyle />
 			<Navbar />
 			<Routes>
