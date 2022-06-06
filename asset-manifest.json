@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Frozen-Dreams/static/js/main.aae17faa.js",
+    "main.js": "/Frozen-Dreams/static/js/main.d6117e4f.js",
     "index.html": "/Frozen-Dreams/index.html",
-    "main.aae17faa.js.map": "/Frozen-Dreams/static/js/main.aae17faa.js.map"
+    "main.d6117e4f.js.map": "/Frozen-Dreams/static/js/main.d6117e4f.js.map"
   },
   "entrypoints": [
-    "static/js/main.aae17faa.js"
+    "static/js/main.d6117e4f.js"
   ]
 }
