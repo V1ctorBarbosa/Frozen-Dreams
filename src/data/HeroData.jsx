@@ -1,3 +1,7 @@
+import IceCream from "../assets/svg/IceCream.svg"
+import Team from "../assets/svg/Supermarket.svg"
+import Bussines from "../assets/svg/Businesswoman.svg"
+
 export const heroOne = {
 	reverse: true,
 	inverse: true,
@@ -8,7 +12,7 @@ export const heroOne = {
 	description: 'We have the best reputation and best flavors.',
 	buttonLabel: 'Find More',
 	imgStart: 'start',
-	img: './assets/svg/IceCream.svg',
+	img: IceCream,
 	start: 'true',
 };
 
@@ -24,7 +28,7 @@ export const heroTwo = {
 
 	linkTo: '/more',
 	imgStart: 'start',
-	img: './assets/svg/Supermarket.svg',
+	img: Team,
 	start: 'true',
 };
 
@@ -41,6 +45,6 @@ export const heroThree = {
 
 	linkTo: '/download',
 	imgStart: '',
-	img: './assets/svg/Businesswoman.svg',
+	img: Bussines,
 	start: 'true',
 };

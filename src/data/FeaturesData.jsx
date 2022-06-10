@@ -1,6 +1,7 @@
 import React from 'react';
 import { IoMdIceCream } from "react-icons/io";
-import { MdCloudQueue, MdDirectionsBike } from "react-icons/md";
+import { MdDirectionsBike } from "react-icons/md";
+import { RiHandSanitizerFill } from "react-icons/ri";
 import { BiSupport, BiDollar, BiCool } from 'react-icons/bi';
 
 const iconStyle = (Icon) => <Icon size="3rem" color="#E91601" />;
@@ -15,7 +16,7 @@ export const featuresData = [
 	{
 		name: 'Clean Environment',
 		description: 'Kitchen and lounge cleaned daily',
-		icon: iconStyle(MdCloudQueue),
+		icon: iconStyle(RiHandSanitizerFill),
 		imgClass: 'two',
 	},
 	{
