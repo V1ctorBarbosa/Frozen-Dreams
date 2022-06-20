@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/Frozen-Dreams/static/js/main.d02c263a.js",
+    "main.js": "/Frozen-Dreams/static/js/main.bf23b8f0.js",
     "static/media/hero.mp4": "/Frozen-Dreams/static/media/hero.8731999d3b5e0de02b0e.mp4",
     "static/media/clean.jpg": "/Frozen-Dreams/static/media/clean.ffbc4809a6210429baba.jpg",
     "static/media/flavors.jpg": "/Frozen-Dreams/static/media/flavors.cccf7e410ae50744f7c0.jpg",
@@ -11,9 +11,9 @@
     "static/media/Supermarket.svg": "/Frozen-Dreams/static/media/Supermarket.50ce7a921a0e9ff12eb5ad0ed86591b1.svg",
     "static/media/Businesswoman.svg": "/Frozen-Dreams/static/media/Businesswoman.98edc1538e0dce16959849aeb01960a7.svg",
     "index.html": "/Frozen-Dreams/index.html",
-    "main.d02c263a.js.map": "/Frozen-Dreams/static/js/main.d02c263a.js.map"
+    "main.bf23b8f0.js.map": "/Frozen-Dreams/static/js/main.bf23b8f0.js.map"
   },
   "entrypoints": [
-    "static/js/main.d02c263a.js"
+    "static/js/main.bf23b8f0.js"
   ]
 }
